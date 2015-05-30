@@ -1,7 +1,7 @@
 # A Brainf*ck interpreter written in Rust
 
 To run:
-- `rustc bf.rs`
+- `rustc -O bf.rs`
 - add a bf program to the directory as `test.b`
 - `./bf test.b`
 
